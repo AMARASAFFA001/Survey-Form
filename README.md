@@ -1,3 +1,3 @@
 # Survey-Form
-One of the required project to earn my certification  from freecodecamp 
-which i build a survey form to collect data from my users 
+One of my required project which i earn my certification  from freecodecamp 
+in this project i build a survey form to collect data from my users 
